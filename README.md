@@ -1,9 +1,10 @@
-<header></header>
-WHO AM I
--I'm Shanice 
--I'm a child of THE MOST HIGH 
+
+WHO AM I?
+
+- I'm Shanice 
+- I'm a child of THE MOST HIGH 
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on ...
+  
 -
 -
 - 
